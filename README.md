@@ -17,6 +17,10 @@ No contexto de um aplicativo de gerenciamento financeiro, "MoneyMind" pode suger
 ## Back end
 - Java script
 - react native
+# Banco de Dados
+- mysql
+- docker
+- beekeeper
 ## Front end
 - HTML / CSS / JS
 - React Native
@@ -61,4 +65,4 @@ yarn start
 
 # Autores
 
-Edleson Junior e Nícholas Gabriel
+Edleson Junior,Nícholas Gabriel e josé kleyton
